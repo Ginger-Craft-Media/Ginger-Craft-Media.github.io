@@ -1187,7 +1187,15 @@ scrollbar
 frame
 
 ------------------------------------------- */
+@font-face {
+  font-family: 'Boston Angel Regular';
+  src: url('fonts/Boston-Angel-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .mil-logo {
+  font-family: 'Boston Angel Regular';
   font-size: 42px;
   font-weight: 500;
   line-height: 100%;
